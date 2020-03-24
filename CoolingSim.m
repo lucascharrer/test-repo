@@ -38,6 +38,9 @@ showChirp();
 
 %MUST ADD TO TICKLECLOUD TO ADD MORE THAN 18 IONS
 
+
+% Adding some extra text to test github
+
 function performanceCheck()
 showCrystalize();
 show2dSqueezing();
